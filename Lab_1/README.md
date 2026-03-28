@@ -26,16 +26,16 @@
 
 Запуск контейнера influxdb	
 **Создаём исполняемый файл с помощью nano influx.sh.**
-<img width="1053" height="523" alt="image" src="Docker/Lab_1/Снимок экрана 2026-03-13 184659.png" />
+<img width="1053" height="523" alt="image" src="Docker/Lab_1/1.png" />
 Проверка influxdb	на порту 8086 
-<img width="1053" height="523" alt="image" src="Lab_1/Снимок экрана 2026-03-13 20185016.png" />
+<img width="1053" height="523" alt="image" src="Lab_1/2.png" />
 
 Создание первичного пользователя
-<img width="1053" height="523" alt="image" src="Lab_1/Снимок%20экрана%202026-03-13%20185110.png" />
+<img width="1053" height="523" alt="image" src="Lab_1/3.png" />
 
-<img width="1053" height="523" alt="image" src="Lab_1/Снимок%20экрана%202026-03-13%20185119.png" />
+<img width="1053" height="523" alt="image" src="Lab_1/4.png" />
 Остановка контейнера, проверка
-<img width="1053" height="523" alt="image" src="Lab_1/Снимок%20экрана%202026-03-13%20185155.png" />
+<img width="1053" height="523" alt="image" src="Lab_1/5.png" />
 
 ## Вывод
 В ходе выполнения лабораторной работы был изучен функционал Docker, а конкретно: запуск и остановка контейнеров, просмотр образов и запущенных контейнеров.
