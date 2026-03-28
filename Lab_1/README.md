@@ -7,7 +7,7 @@
 
 Проверка версии Docker
 
-<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/3b3ae362-4853-4ff6-b15c-2ea6c9862de9" />
+<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/3b3ae362-4853-4ff6-b15c-2ea6c9862de9" /> <br/>
 
 
 Просмотр скачанных образов
