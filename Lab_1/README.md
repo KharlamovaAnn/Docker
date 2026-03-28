@@ -28,7 +28,7 @@
 **Создаём исполняемый файл с помощью nano influx.sh.**
 <img width="1053" height="523" alt="image" src="Lab_1/Снимок экрана 2026-03-13 184659.png" />
 Проверка influxdb	на порту 8086 
-<img width="1053" height="523" alt="image" src="Lab_1/Снимок экрана 202026-03-13 20185016.png" />
+<img width="1053" height="523" alt="image" src="Lab_1/Снимок экрана 2026-03-13 20185016.png" />
 
 Создание первичного пользователя
 <img width="1053" height="523" alt="image" src="Lab_1/Снимок%20экрана%202026-03-13%20185110.png" />
