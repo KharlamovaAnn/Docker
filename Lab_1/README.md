@@ -26,7 +26,7 @@
 
 Запуск контейнера influxdb	
 **Создаём исполняемый файл с помощью nano influx.sh.**
-<img width="1053" height="523" alt="image" src=<img width="1601" height="915" alt="1" src="https://github.com/user-attachments/assets/73c6780b-31a0-4350-ae40-3e586b9733c7" />
+src=<img width="1601" height="915" alt="1" src="https://github.com/user-attachments/assets/73c6780b-31a0-4350-ae40-3e586b9733c7" />
 
 Проверка influxdb	на порту 8086 
 <img width="1053" height="523" alt="image" src="Lab_1/2.png" />
