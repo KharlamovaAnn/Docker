@@ -7,7 +7,7 @@
 
 Проверка версии Docker
 
-<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/3b3ae362-4853-4ff6-b15c-2ea6c9862de9" /> <br/>
+<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/3b3ae362-4853-4ff6-b15c-2ea6c9862de9" /> 
 
 
 Просмотр скачанных образов
@@ -29,7 +29,7 @@
 Запуск контейнера influxdb	
 **Создаём исполняемый файл с помощью nano influx.sh.**
 
-<img width="1601" height="915" alt="1" src="https://github.com/user-attachments/assets/73c6780b-31a0-4350-ae40-3e586b9733c7" />
+<img width="1601" height="915" alt="1" src="https://github.com/user-attachments/assets/73c6780b-31a0-4350-ae40-3e586b9733c7" /> <br/>
 
 Проверка influxdb	на порту 8086 
 
