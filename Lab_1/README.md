@@ -11,6 +11,7 @@
 
 
 Просмотр скачанных образов
+
 <img width="837" height="552" alt="image" src="https://github.com/user-attachments/assets/5a0a98c6-bf90-427b-b126-bfc91cbffb27" />
 
 Просмотр запущенных контейнеров
@@ -27,17 +28,21 @@
 
 Запуск контейнера influxdb	
 **Создаём исполняемый файл с помощью nano influx.sh.**
+
 <img width="1601" height="915" alt="1" src="https://github.com/user-attachments/assets/73c6780b-31a0-4350-ae40-3e586b9733c7" />
 
 Проверка influxdb	на порту 8086 
+
 <img width="1919" height="1006" alt="2" src="https://github.com/user-attachments/assets/6f15a1fa-f7ed-433d-90df-ad514be10f3a" />
 
 Создание первичного пользователя
+
 <img width="1851" height="985" alt="3" src="https://github.com/user-attachments/assets/cc1d2b03-bff9-4541-aeea-041703c000cd" />
 
 <img width="1856" height="980" alt="4" src="https://github.com/user-attachments/assets/68186221-24a8-436a-868a-6d0ad5b83bc6" />
 
 Остановка контейнера, проверка
+
 <img width="1613" height="927" alt="5" src="https://github.com/user-attachments/assets/3663f8fd-2866-49c8-b3da-b78cd9909e8b" />
 
 
