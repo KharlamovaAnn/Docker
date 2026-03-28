@@ -7,20 +7,19 @@
 
 Проверка версии Docker
 
-<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/3b3ae362-4853-4ff6-b15c-2ea6c9862de9" /> 
-
+<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/3b3ae362-4853-4ff6-b15c-2ea6c9862de9" /> <br1/>
 
 Просмотр скачанных образов
 
-<img width="837" height="552" alt="image" src="https://github.com/user-attachments/assets/5a0a98c6-bf90-427b-b126-bfc91cbffb27" />
+<img width="837" height="552" alt="image" src="https://github.com/user-attachments/assets/5a0a98c6-bf90-427b-b126-bfc91cbffb27" /> <br2/>
 
 Просмотр запущенных контейнеров
 
-<img width="830" height="125" alt="image" src="https://github.com/user-attachments/assets/7f1b897c-b369-4f60-94c7-4bbcd290601a" />
+<img width="830" height="125" alt="image" src="https://github.com/user-attachments/assets/7f1b897c-b369-4f60-94c7-4bbcd290601a" /> <br3/>
 
 Просмотр запущенных контейнеров, включая остановленных
 
-<img width="1053" height="523" alt="image" src="https://github.com/user-attachments/assets/0763bd6b-4592-4f1a-920b-ad6e0b4ac5d7" />
+<img width="1053" height="523" alt="image" src="https://github.com/user-attachments/assets/0763bd6b-4592-4f1a-920b-ad6e0b4ac5d7" /> <br4/>
 
 ## Индивидуальное задание
 ### Вариант 18
@@ -29,17 +28,17 @@
 Запуск контейнера influxdb	
 **Создаём исполняемый файл с помощью nano influx.sh.**
 
-<img width="1601" height="915" alt="1" src="https://github.com/user-attachments/assets/73c6780b-31a0-4350-ae40-3e586b9733c7" /> <br/>
+<img width="1601" height="915" alt="1" src="https://github.com/user-attachments/assets/73c6780b-31a0-4350-ae40-3e586b9733c7" /> <br5/>
 
 Проверка influxdb	на порту 8086 
 
-<img width="1919" height="1006" alt="2" src="https://github.com/user-attachments/assets/6f15a1fa-f7ed-433d-90df-ad514be10f3a" />
+<img width="1919" height="1006" alt="2" src="https://github.com/user-attachments/assets/6f15a1fa-f7ed-433d-90df-ad514be10f3a" /> <br6/>
 
 Создание первичного пользователя
 
-<img width="1851" height="985" alt="3" src="https://github.com/user-attachments/assets/cc1d2b03-bff9-4541-aeea-041703c000cd" />
+<img width="1851" height="985" alt="3" src="https://github.com/user-attachments/assets/cc1d2b03-bff9-4541-aeea-041703c000cd" /> <br7/>
 
-<img width="1856" height="980" alt="4" src="https://github.com/user-attachments/assets/68186221-24a8-436a-868a-6d0ad5b83bc6" />
+<img width="1856" height="980" alt="4" src="https://github.com/user-attachments/assets/68186221-24a8-436a-868a-6d0ad5b83bc6" /> <br8/>
 
 Остановка контейнера, проверка
 
