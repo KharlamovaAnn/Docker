@@ -1,4 +1,5 @@
-<img width="877" height="106" alt="image" src="https://github.com/user-attachments/assets/41d4815a-ff3e-47e8-a3c6-2178bd54e76d" /># Отчет по лабораторной работе №3
+# Отчет по лабораторной работе №3
+<img width="877" height="106" alt="image" src="https://github.com/user-attachments/assets/41d4815a-ff3e-47e8-a3c6-2178bd54e76d" />
 
 ## Развертывание приложения в Kubernetes
 
