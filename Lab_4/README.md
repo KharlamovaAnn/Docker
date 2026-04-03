@@ -68,6 +68,7 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 
 #### Сборка образов
 <img width="1375" height="629" alt="Снимок экрана 2026-03-30 145816" src="https://github.com/user-attachments/assets/8941d4e7-44cb-4433-85bf-64594eab8978" /> <br1/>
+
 <img width="1380" height="358" alt="Снимок экрана 2026-03-30 151157" src="https://github.com/user-attachments/assets/6a368ec8-7169-4c9a-9f2b-12d843978827" /> <br2/>
 
 #### Статус подов
@@ -85,7 +86,9 @@ frontend-deploy-xxxxxxxx-xxxxx     1/1     Running   0          4m
 <img width="1851" height="979" alt="image" src="https://github.com/user-attachments/assets/ee4873a5-402f-4a01-8634-e7957c6946ce" /> <br4/>
 
 
+
 База данных:
 <img width="815" height="354" alt="image" src="https://github.com/user-attachments/assets/d4493722-f88f-4cca-94a1-b6eb4710fd3a" /> <br5/>
+
 
 <img width="522" height="248" alt="image" src="https://github.com/user-attachments/assets/a9c5509a-e2b7-4538-8b30-2c527b4bbb75" /> <br6/>
