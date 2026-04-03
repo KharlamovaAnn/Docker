@@ -38,6 +38,7 @@
 
 <img width="1851" height="985" alt="3" src="https://github.com/user-attachments/assets/cc1d2b03-bff9-4541-aeea-041703c000cd" /> <br7/>
 
+
 <img width="1856" height="980" alt="4" src="https://github.com/user-attachments/assets/68186221-24a8-436a-868a-6d0ad5b83bc6" /> <br8/>
 
 Остановка контейнера, проверка
