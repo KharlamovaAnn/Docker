@@ -17,7 +17,7 @@
 
 <img width="830" height="125" alt="image" src="https://github.com/user-attachments/assets/7f1b897c-b369-4f60-94c7-4bbcd290601a" /> <br3/>
 
-Просмотр запущенных контейнеров, включая остановленных
+Просмотр запущенных контейнеров, включая остановленные
 
 <img width="1053" height="523" alt="image" src="https://github.com/user-attachments/assets/0763bd6b-4592-4f1a-920b-ad6e0b4ac5d7" /> <br4/>
 
