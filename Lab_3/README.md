@@ -115,6 +115,7 @@ spec:
 
 **Интерфейс Chronograf (localhost:30888):**
 Приложение доступно в браузере. Выполнены настройки подключения к InfluxDB через внутренний DNS-адрес сервиса.
+
 <img width="1849" height="963" alt="image" src="https://github.com/user-attachments/assets/e94cbe26-1f35-48b1-abd7-aa865dc0ca8e" />
 
 ---
