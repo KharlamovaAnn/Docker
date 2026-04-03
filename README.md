@@ -27,11 +27,11 @@
 
 5. **[Развертывание приложения в Kubernetes](https://github.com/KharlamovaAnn/Docker/blob/main/Lab_3/README.md)**  
    Основы работы с Kubernetes: создание подов, деплойментов, сервисов, масштабирование приложений.
-   [Задание для лабораторной]()
+   [Задание для лабораторной](https://envlab.ru/mod/assign/view.php?id=257)
 
 7. **[Частные облачные системы](https://github.com/KharlamovaAnn/Docker/blob/main/Lab_4/README.md)**  
    Работа с частными облаками, настройка ресурсов, развертывание приложений в изолированной среде.
-   [Задание для лабораторной]()
+   [Задание для лабораторной](https://envlab.ru/mod/assign/view.php?id=259)
 
 ---
 [Все контейнеры](https://disk.yandex.ru/d/5pTF0363AY5G-Q)
