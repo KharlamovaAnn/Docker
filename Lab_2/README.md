@@ -294,9 +294,9 @@ ls -lh output/
 
 1. **Консольный вывод** — сводная статистика, группировка по типу транспорта и поставщику.
 2. **Файл `output/heatmap.png`** — тепловая карта матрицы корреляций числовых признаков.
+   <br1/>
 
-
-<img width="1500" height="1200" alt="heatmap" src="https://github.com/user-attachments/assets/c8dfc074-287a-4446-8ead-fa564c24646b" />
+<img width="1500" height="1200" alt="heatmap" src="https://github.com/user-attachments/assets/c8dfc074-287a-4446-8ead-fa564c24646b" /> <br2/>
 
 
 **Ключевые наблюдения из тепловой карты:**
