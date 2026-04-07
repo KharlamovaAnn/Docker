@@ -11,7 +11,7 @@
 
 Просмотр скачанных образов
 
-<img width="837" height="552" alt="image" src="https://github.com/user-attachments/assets/5a0a98c6-bf90-427b-b126-bfc91cbffb27" /> <br2/>
+<img width="569" height="57" alt="Снимок экрана 2026-04-07 054233" src="https://github.com/user-attachments/assets/ea5de1ad-e4e5-4d0f-9f4d-925c707be76d" />
 
 Просмотр запущенных контейнеров
 
