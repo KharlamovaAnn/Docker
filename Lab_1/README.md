@@ -15,11 +15,11 @@
 
 Просмотр запущенных контейнеров
 
-<img width="830" height="125" alt="image" src="https://github.com/user-attachments/assets/7f1b897c-b369-4f60-94c7-4bbcd290601a" /> <br3/>
+<img width="657" height="64" alt="Снимок экрана 2026-04-07 054349" src="https://github.com/user-attachments/assets/155020c4-2a7f-40a2-920b-58b1926a9c05" />
 
 Просмотр запущенных контейнеров, включая остановленные
 
-<img width="1053" height="523" alt="image" src="https://github.com/user-attachments/assets/0763bd6b-4592-4f1a-920b-ad6e0b4ac5d7" /> <br4/>
+<img width="1152" height="78" alt="Снимок экрана 2026-04-07 054418" src="https://github.com/user-attachments/assets/06e083e9-2761-49b6-ae42-5b969ff43c45" /> <br4/>
 
 ## Индивидуальное задание
 ### Вариант 18
