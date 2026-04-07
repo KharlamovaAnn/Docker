@@ -67,12 +67,12 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 ### 5. Скриншоты выполнения
 
 #### Сборка образов
-<img width="1375" height="629" alt="Снимок экрана 2026-03-30 145816" src="https://github.com/user-attachments/assets/8941d4e7-44cb-4433-85bf-64594eab8978" /> <br1/>
+<img width="751" height="367" alt="Снимок экрана 2026-04-07 073849" src="https://github.com/user-attachments/assets/3be2a594-1bfa-4f40-abbb-11dfa2217ed3" /> <br1/>
 
-<img width="1380" height="358" alt="Снимок экрана 2026-03-30 151157" src="https://github.com/user-attachments/assets/6a368ec8-7169-4c9a-9f2b-12d843978827" /> <br2/>
+<img width="745" height="335" alt="Снимок экрана 2026-04-07 073900" src="https://github.com/user-attachments/assets/fa79b2d3-1af7-4c30-95c1-e90ccb0a0572" /> <br2/>
 
 #### Статус подов
-<img width="688" height="98" alt="image" src="https://github.com/user-attachments/assets/ea52ec0d-3640-4cc7-9c62-1d944b4583e0" /> <br3/>
+<img width="750" height="199" alt="Снимок экрана 2026-04-07 073918" src="https://github.com/user-attachments/assets/f11ec864-376e-493d-be84-12755d2f7c36" /> <br3/>
 
 ```bash
 # kubectl get pods
