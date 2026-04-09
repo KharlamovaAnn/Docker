@@ -67,12 +67,12 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 ### 5. Скриншоты выполнения
 
 #### Сборка образов
-<img width="751" height="367" alt="Снимок экрана 2026-04-07 073849" src="https://github.com/user-attachments/assets/3be2a594-1bfa-4f40-abbb-11dfa2217ed3" /> <br1/>
+<img width="935" height="428" alt="Снимок экрана 2026-04-09 225835" src="https://github.com/user-attachments/assets/260acfd8-cb66-4bd4-ac9f-d01699e2eaf5" /> <br1/>
 
-<img width="745" height="335" alt="Снимок экрана 2026-04-07 073900" src="https://github.com/user-attachments/assets/fa79b2d3-1af7-4c30-95c1-e90ccb0a0572" /> <br2/>
+<img width="937" height="430" alt="Снимок экрана 2026-04-09 225907" src="https://github.com/user-attachments/assets/6971b54d-256c-460c-8906-0d8e5ea49932" /> <br2/>
 
 #### Статус подов
-<img width="750" height="199" alt="Снимок экрана 2026-04-07 073918" src="https://github.com/user-attachments/assets/f11ec864-376e-493d-be84-12755d2f7c36" /> <br3/>
+<img width="642" height="186" alt="Снимок экрана 2026-04-09 225929" src="https://github.com/user-attachments/assets/552be306-1473-48f0-acd1-41ac6b94ece2" /> <br3/>
 
 ```bash
 # kubectl get pods
