@@ -7,19 +7,19 @@
 
 Проверка версии Docker
 
-<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/3b3ae362-4853-4ff6-b15c-2ea6c9862de9" /> <br1/>
+<img width="729" height="448" alt="Снимок экрана 2026-04-09 220103" src="https://github.com/user-attachments/assets/722873b7-a5dd-47e7-9c2d-0d6d87d3139b" /> <br1/>
 
 Просмотр скачанных образов
 
-<img width="569" height="57" alt="Снимок экрана 2026-04-07 054233" src="https://github.com/user-attachments/assets/ea5de1ad-e4e5-4d0f-9f4d-925c707be76d" />
+<img width="657" height="153" alt="Снимок экрана 2026-04-09 220128" src="https://github.com/user-attachments/assets/f48d3026-7104-426c-81a0-9fa88707b716" /> <br2/>
 
 Просмотр запущенных контейнеров
 
-<img width="657" height="64" alt="Снимок экрана 2026-04-07 054349" src="https://github.com/user-attachments/assets/155020c4-2a7f-40a2-920b-58b1926a9c05" />
+<img width="653" height="44" alt="Снимок экрана 2026-04-09 220136" src="https://github.com/user-attachments/assets/94da9970-26b2-41c6-83df-e2d0f361ab86" /> <br3/>
 
 Просмотр запущенных контейнеров, включая остановленные
 
-<img width="1152" height="78" alt="Снимок экрана 2026-04-07 054418" src="https://github.com/user-attachments/assets/06e083e9-2761-49b6-ae42-5b969ff43c45" /> <br4/>
+<img width="1031" height="306" alt="Снимок экрана 2026-04-09 220145" src="https://github.com/user-attachments/assets/553c9cbf-7ea9-401c-ac4f-9e4b891e0d9c" /> <br4/>
 
 ## Индивидуальное задание
 ### Вариант 18
