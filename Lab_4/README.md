@@ -85,11 +85,9 @@ frontend-deploy-xxxxxxxx-xxxxx     1/1     Running   0          4m
 #### Работающее приложение
 <img width="1851" height="979" alt="image" src="https://github.com/user-attachments/assets/ee4873a5-402f-4a01-8634-e7957c6946ce" /> <br4/>
 
-<img width="480" height="121" alt="Снимок экрана 2026-04-10 112457" src="https://github.com/user-attachments/assets/11dba119-15bb-4109-9466-e5fa27a4422c" />
-
 
 База данных:
 
 <img width="1019" height="201" alt="image" src="https://github.com/user-attachments/assets/fce9cb76-bc26-414e-acae-2cac33843e94" /> <br5/>
 
-
+<img width="480" height="121" alt="Снимок экрана 2026-04-10 112457" src="https://github.com/user-attachments/assets/11dba119-15bb-4109-9466-e5fa27a4422c" />
