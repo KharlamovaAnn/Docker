@@ -104,10 +104,12 @@ spec:
 Для проверки работоспособности используются команды:
 
 - `kubectl get pods` — для подтверждения статуса **Running**.
-<img width="785" height="819" alt="image" src="https://github.com/user-attachments/assets/31577a8a-b4ef-4b0d-9172-fc6043d7b4bd" />
+  
+<img width="631" height="132" alt="Снимок экрана 2026-04-10 113942" src="https://github.com/user-attachments/assets/1b0a041c-0d6f-4893-a3f3-7f9f88571790" />
 
 - `kubectl get services` — для проверки корректности проброса портов.
-<img width="877" height="106" alt="image" src="https://github.com/user-attachments/assets/63f59494-e097-4a6f-a574-4c10e2426d5e" />
+
+<img width="790" height="153" alt="Снимок экрана 2026-04-10 113959" src="https://github.com/user-attachments/assets/6afc51dd-1f35-4d09-9990-8f2e7505ca71" />
 
 ---
 
