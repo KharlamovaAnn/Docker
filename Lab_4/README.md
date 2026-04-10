@@ -89,7 +89,6 @@ frontend-deploy-xxxxxxxx-xxxxx     1/1     Running   0          4m
 
 База данных:
 
-<img width="815" height="354" alt="image" src="https://github.com/user-attachments/assets/d4493722-f88f-4cca-94a1-b6eb4710fd3a" /> <br5/>
+<img width="1019" height="201" alt="image" src="https://github.com/user-attachments/assets/fce9cb76-bc26-414e-acae-2cac33843e94" /> <br5/>
 
 
-<img width="522" height="248" alt="image" src="https://github.com/user-attachments/assets/a9c5509a-e2b7-4538-8b30-2c527b4bbb75" /> <br6/>
